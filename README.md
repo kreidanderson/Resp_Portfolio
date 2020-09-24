@@ -3,6 +3,7 @@ This is project has 3 html files and 3 css files respectively.
 index.html is linked to index.css
 portfolio.html is linked to portfolio.css
 contact.html is linked to contact.html
+It also has an assets folder including photos that I have taken and photos of me.
 
 The first goal of this project was to effectively use a bootstap provided navbar and make sure it is functioning.
 After that it was important that all of the pages (see above) properly linked to each other. 

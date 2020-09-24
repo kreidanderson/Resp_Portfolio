@@ -1,6 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: unset;
+}
+
 body {
     background-image: url("https://doitbeforeme.com/wp-content/uploads/2019/11/picasso-line-hand-drawing-e1572979110988.jpg");
-    
+    font-family: Arial;
+    color: cornflowerblue;
    
    }
 
@@ -11,3 +19,7 @@ body {
        /* align-content: center;
        padding: 0%; */
    }
+
+   .btn-primary{
+    background-color: pink;
+}
