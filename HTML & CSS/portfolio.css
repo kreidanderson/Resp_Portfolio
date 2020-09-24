@@ -1,0 +1,14 @@
+body{
+background-image: url("https://doitbeforeme.com/wp-content/uploads/2019/11/picasso-line-hand-drawing-e1572979110988.jpg");
+}
+
+.container{
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+}
+.container img{
+    width: 150px;
+    height: 150px;
+    margin: 10px 30px;
+}
