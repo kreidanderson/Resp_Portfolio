@@ -11,7 +11,6 @@ body{
 }
 
 
-
 p2 {
     display: inline;
     text-align: justify;
@@ -24,8 +23,16 @@ p2 {
     background-color: white;
     float: left;
    
-
 }
+
+.navbar-toggler .icon-bar {
+    margin: 7px;
+    display: block;
+    width: 22px;
+    height: 1px;
+    background-color: #cccccc;
+    border-radius: 1px;
+  }
 
 .headshot img{
     padding: 0px 0px 0px 0px;
