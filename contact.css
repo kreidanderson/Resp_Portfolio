@@ -1,25 +1,37 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    position: unset;
+  
 }
 
 body {
-    background-image: url("https://doitbeforeme.com/wp-content/uploads/2019/11/picasso-line-hand-drawing-e1572979110988.jpg");
-    font-family: Arial;
-    color: cornflowerblue;
+    background-image: url("assets/background.jpg");
+    font-family: 'Oswald', sans-serif;
+    background-size: 300px;
+   
    
    }
 
+.navbar{
+    position: relative;
+}
+
    .container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
        background-color: white;
        border-width: 30px;
        border-color: blue;
-       /* align-content: center;
-       padding: 0%; */
+     
    }
 
    .btn-primary{
     background-color: pink;
 }
+
+h1{
+    color: pink;
+ }
