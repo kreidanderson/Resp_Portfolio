@@ -23,6 +23,7 @@ h1{
    color: pink;
 }
 
+
 .container{
     position: absolute;
     top: 50%;
@@ -35,6 +36,7 @@ h1{
     background-color: white;
     float: left;
     color: black
+
 }
 
 .navbar-toggler .icon-bar {
