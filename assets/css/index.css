@@ -6,7 +6,8 @@
 }
 
 body{
-    background-image: url("assets/background.jpg");
+    /* took this out because I kind of like it without the background */
+    /* background-image: url("assets/background.jpg"); */
     font-size: 15px;
     font-family: 'Oswald', sans-serif;
     background-size: 300px;
